@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="tutorial"
+  id="myeclipse.1392885614879"
+  context-root="/turotial"
+  j2ee-spec="6.0"
+  archive="tutorial.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
